@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am a Systems Engineer with expertise in HTML, CSS, JavaScript, Node.js, Angular, SQL, and MongoDB. Currently, I work at Anthology, and I'm passionate about continuous learning. I'm currently enrolled in the course: [JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course).
+I am a Systems Engineer with expertise in HTML, CSS, JavaScript, Node.js, Angular, SQL, and MongoDB. Currently, I work at Anthology, and I'm passionate about continuous learning. I'm currently developing an Ecommerce. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-pineda-a05323174/)
